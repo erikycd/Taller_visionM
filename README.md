@@ -1,7 +1,5 @@
 # Taller avanzado de Modelos de Visión para desarrolladores
 
-## 
-
 Este repositorio contiene los siguientes códigos:
 
 1. Código para generar imágenes con la API key de OpenAIO. [OpenAI_API_DALEE](OpenAI_API_DALEE.ipynb)
