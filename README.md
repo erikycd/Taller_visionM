@@ -8,3 +8,7 @@ Este repositorio contiene los siguientes códigos:
 <p align="center">
   <img width="60%" src="https://github.com/erikycd/Taller_visionM/blob/main/Drop_water.jpg?raw=true">
 </p>
+
+<p align="center">
+  <img width="60%" src="https://github.com/erikycd/Taller_visionM/blob/83772ba224f1a56ad6a34e86218f12f7d565041d/Bulb_texture.png">
+</p>
